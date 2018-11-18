@@ -11,7 +11,7 @@
     "react-google-maps": "^9.4.5",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://yulya-yu.github.io/reactnd-project-myreads-starter",
+  "homepage": "https://github.com/Yulya-Yu/Neighborhood-Map",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
